@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+h1{
+    text-align: center;
+    margin-top:5%;
+    margin-bottom: 2em;
+}
+
+#register-form{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height:70%;
+    
+}
+
+input{
+    margin-bottom: 2em;
+    height:2em;
+    width:30%;
+}
+
+button{
+    font-weight:bold;
+    padding:15px;
+}
